@@ -1,4 +1,4 @@
-package com.example.docker.controller;
+package com.example.demo.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
